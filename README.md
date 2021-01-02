@@ -39,4 +39,6 @@ Storage of data-- MongoDB compass.
 
 Use POSTMAN for performing the CRUD operations.
 
-Heroku link--
+Heroku link--https://to-do-list-backend-26.herokuapp.com/
+
+After checking the above link connect to database and start the port by performing node app.js on terminal and perform the crud operations on postman and check on heroku by adding todoList/tasks further in url.Add /taskId in url to get certain task.
